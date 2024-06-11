@@ -1,2 +1,2 @@
-![Welcome](https://github.com/rethvick/rethvick/raw/master/Welcome.gif)
+![Welcome](https://github.com/Rethvick/Rethvick/blob/main/Welcome.gif)
 
